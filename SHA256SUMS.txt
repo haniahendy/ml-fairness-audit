@@ -1,0 +1,6 @@
+999910e36da252f247a5812cff42e8f1a160140e205e53d80c65572257c7abee  ./README.md
+3860d49c44cf0466f6607bf369d4167fb772d678c84602352ad3b180d9660071  ./src/fairaudit/__init__.py
+2583251eef8d18d424f004eb26bddeeafc0af7353df40fd6da37657449bec4d5  ./src/fairaudit/cli.py
+e7eb53c5e05c137b2ff82941fbd2e83d590fdc3fbdfc2fa0f8dd82a01b4be035  ./src/fairaudit/metrics.py
+b9ce6cce5f30cbc82d2c856a8ae7b0ebcf81d315e3ea415f50a91cc1e801c30f  ./src/fairaudit/report.py
+94bf7892fa4aa1bf9e0ec7de5333f94d4192d78c23afd15b49f1541cc78ee13b  ./tests/test_fairaudit.py
